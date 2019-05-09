@@ -1,0 +1,10 @@
+文件说明：
+FizzBuzzDemo.py 为FizzBuzz功能实现类，其中第一个特殊数字设置为3，第二个特殊数字为5；
+say方法要求输入一个数字，返回报数时应该报的字符
+TestFizzBuzz.py 为FizzBuzzDemo测试类，引用unittest测试框架
+
+执行方法:
+1、通过python命令行，直接执行Python FizzBuzzDemo.py，可输出1~100报数结果
+2、通过python命令行，直接执行Python TestFizzBuzz.py，可验证FizzBuzzDemo的say方法对输入为3、5、51、61的输出是否符合预期
+
+注：执行版本请选则Python 2.7.x（不支持Python3）
